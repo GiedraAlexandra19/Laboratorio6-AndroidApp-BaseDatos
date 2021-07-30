@@ -11,6 +11,6 @@ Funcionalidades: Lista de Clientes, Nuevo Cliente
 
 2.Actualizar el proyecto siguiendo las recomendaciones de la página oficial de desarrollo android: Cómo guardar datos con SQLite (https://developer.android.com/training/data-storage/sqlite)
 
-3.    Ejecutar el proyecto
+3.Ejecutar el proyecto
 
 apinoh@unsa.edu.pe
